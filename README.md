@@ -2,6 +2,10 @@
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
+---
+![Foodfy - Desafio 02  Praticando CSS - Google Chrome 2020-07-13 13-25-10](https://user-images.githubusercontent.com/64690628/87329726-ca72f680-c50d-11ea-9b29-b4c9269d6b22.gif)
+
+---
 <h3 align="center">
   Desafios Módulo 2 - Iniciando no Front-end
 </h3>
